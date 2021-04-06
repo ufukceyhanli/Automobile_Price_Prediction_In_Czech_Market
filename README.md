@@ -17,9 +17,11 @@ Ufuk Taner CEYHANLI <br>
 
 #### Top 5 Brands
 <p align="center"> <img src="https://github.com/tanerceyhanli/Automobile_Price_Prediction_In_Czech_Market/blob/main/readme_sources/1_Number_of_cars_by_brand.png"> </p>
+
 #### Univariate Analysis
 <p align="center"> <img src="https://github.com/tanerceyhanli/Automobile_Price_Prediction_In_Czech_Market/blob/main/readme_sources/2_Car_Price_Distribution.png"> </p>
 <p align="center"> <img src="https://github.com/tanerceyhanli/Automobile_Price_Prediction_In_Czech_Market/blob/main/readme_sources/3_Univariate.png"> </p>
+
 #### Bivariate Analysis
 <p align="center"> <img src="https://github.com/tanerceyhanli/Automobile_Price_Prediction_In_Czech_Market/blob/main/readme_sources/4_Bivariate.png"> </p>
 <p align="center"> <img src="https://github.com/tanerceyhanli/Automobile_Price_Prediction_In_Czech_Market/blob/main/readme_sources/5_Bivariate_2.png"> </p>
