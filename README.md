@@ -1,9 +1,5 @@
 # Automobile Price Prediction In Czech Market
 
-<p align="center">
-  <img src="https://github.com/tanerceyhanli/AB-Testing-Case-For-an-E-commerce-Website/blob/main/readme.jpeg">
-</p>
-
 ### Business Problem
 With the help of a prediction model, a seller can pick the right price for his/her automobile to advertise it on the e-commerce website and can sell it in a very short time. On the other hand, the prediction model accelerates the circulation of cars on the website which will result in an increase in the profit for the e-commerce owner. In this project, I will go over the steps below:
 
