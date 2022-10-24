@@ -10,7 +10,7 @@ With the help of a prediction model, a seller can pick the right price for his/h
 Jupyter Notebook --> [*Here*](https://github.com/tanerceyhanli/Automobile_Price_Prediction_In_Czech_Market/blob/main/Automobile_Price_Prediction_In_Czech_Market.ipynb)
 
 Ufuk Taner CEYHANLI <br>
-[*tanerceyhanli.github.io*](https://tanerceyhanli.github.io)
+[*tanerceyhanli.github.io*](https://ufukceyhanli.com)
 
 
 ### Power BI Screen Shots
