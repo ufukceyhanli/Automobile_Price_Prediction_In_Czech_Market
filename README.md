@@ -11,7 +11,7 @@ Jupyter Notebook --> [*Here*](https://github.com/tanerceyhanli/Automobile_Price_
 
 Ufuk Taner CEYHANLI <br>
 [*ufukceyhanli.com*](https://ufukceyhanli.com)
-
+fghjgffghj
 
 ### Power BI Screen Shots
 
